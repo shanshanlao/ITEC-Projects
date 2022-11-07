@@ -1,6 +1,6 @@
 This is an undergrad course project for <b> ITEC4220 Database Management Systems </b> at York University in Winter 2022 Semester.
 
- - In collaborate with my teammates Karanvir and Shennaz. 
+ - In collaboration with my teammates Karanvir and Shennaz. 
 
 
 The project consists of three milestones. <b> This repo only includes queries created for Milestone2 and Milestone3. </b>
